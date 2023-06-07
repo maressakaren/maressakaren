@@ -1,5 +1,6 @@
 ### Olá, me chamo Maressa 👋
 
+___
 - Bacharelado em Sistema de informação em progresso 👩🏽‍💻.
 
 - Aprendendo Análise de dados com Python. 🐍📊

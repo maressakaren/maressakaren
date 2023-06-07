@@ -5,12 +5,12 @@ ___
 - Aprendendo Análise de dados com Python. 🐍📊
 
 - Gosto de desafios e por isso amo programação ❤.
+___
+__Habilidades__: PYTHON / C / JAVA /JS/ HTML / CSS
 
-Habilidades: PYTHON / C / JAVA /JS/ HTML / CSS
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maressakaren&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maressakaren)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maressakaren&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maressakaren&layout=compact)  
 ___
 ## __Como me encontrar:__
 
